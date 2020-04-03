@@ -1,0 +1,11 @@
+Reference, Value, Footprint, Datasheet, Digikey PN, digikey PN
+"R1","8k06","Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
+"C3","18p","Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
+"J2","Output","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","A1921-ND",""
+"J1","Power","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","","	A19470-ND"
+"U1","ADA4661-2","Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",""
+"U2","FDS100","uvicamo:FDS100",""
+"C2","1u","Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
+"C1","100n","Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
+"C4","10n","Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
+"C5","10n","Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
