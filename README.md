@@ -1,3 +1,2 @@
 # Coding-and-Project-Examples
-Samples of coding work done through classes as well as examples from research
-Here you will find projects making low noise, high gain photodetectors 
+Below you will find various files relating to PCB and Photodiode development through KiCAD.
